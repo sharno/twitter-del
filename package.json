@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/node": "^20.14.8",
+    "dotenv": "^16.4.5",
     "tsx": "^4.15.7",
     "twitter-api-v2": "^1.17.1",
     "yargs": "^17.7.2"
