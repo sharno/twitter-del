@@ -2,20 +2,11 @@
   "name": "twitter-del",
   "module": "index.ts",
   "type": "module",
-  "scripts": {
-    "start": "tsx index.ts"
-  },
-  "peerDependencies": {
-    "typescript": "^5.5.2"
-  },
   "dependencies": {
     "@types/node": "^20.14.8",
+    "@types/yargs": "^17.0.32",
     "dotenv": "^16.4.5",
-    "tsx": "^4.15.7",
     "twitter-api-v2": "^1.17.1",
     "yargs": "^17.7.2"
-  },
-  "devDependencies": {
-    "@types/yargs": "^17.0.32"
   }
 }
